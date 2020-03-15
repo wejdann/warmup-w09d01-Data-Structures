@@ -13,7 +13,7 @@ Since a data structure is `a particular way of organizing and storing data` diff
 
 Describe the covered data structures: in a seperate .md file write list data structures.
 Under each data structure describe how they work (design and operations), where they are used, and Big O (both average and worst).
-Once done the do a pull request, One per team.
+Once done the do a pull request, One request per team.
 
 ## Hint
 Data Structures we covered: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Sets, Binary Trees, Tries, and Balancing Binary Trees (AVL Tree).
